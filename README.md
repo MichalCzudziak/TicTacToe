@@ -16,6 +16,10 @@ Welcome to the Tic Tac Toe AI project! This is a simple implementation of the cl
 4. Try to get three in a row horizontally, vertically, or diagonally to win.
 5. Click the "Restart" button to start a new game.
 
+## Play Online
+
+You can play the game online by visiting [Tic Tac Toe AI](https://michalczudziak.github.io/TicTacToe/).
+
 ## Technologies Used
 
 - HTML
