@@ -26,8 +26,4 @@ Welcome to the Tic Tac Toe AI project! This is a simple implementation of the cl
 
 - Fonts: [Lilita One](https://fonts.google.com/specimen/Lilita+One), [PT Sans](https://fonts.google.com/specimen/PT+Sans), [Teko](https://fonts.google.com/specimen/Teko)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 Feel free to contribute, report issues, or make suggestions!
