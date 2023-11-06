@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', function () {
     const board = document.getElementById('board');
     const status = document.getElementById('status');
     const cells = document.querySelectorAll('.cell');
-    const resetartButton = document.getElementById('restart-button');
+    const restartButton = document.getElementById('restart-button');
 
     let currentPlayer = 'X';
     let gameOver = false;
@@ -121,7 +121,7 @@ document.addEventListener('DOMContentLoaded', function () {
         cell.addEventListener('click', () => handleCellClick(index));
     });
 
-    resetartButton.addEventListener('click', () => {
+    restartButton.addEventListener('click', () => {
         cells.forEach(cell => cell.innerHTML = '');
         currentPlayer = 'X';
         gameOver = false;
